@@ -39,6 +39,9 @@
           <li class="nav-item">
               <a class="nav-link" href="login.jsp"> <i class="fa fa-lock"></i> &nbsp;&nbsp;Login</a>
           </li>
+            <li class="nav-item">
+              <a class="nav-link" href="login.jsp"> <i class="fa fa-lock"></i> &nbsp;&nbsp;Register</a>
+          </li>
         </ul>
       </div>
     </div>
